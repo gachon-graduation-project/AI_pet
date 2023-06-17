@@ -12,7 +12,8 @@ Model Selction Critieria
 Inference Speed :small_red_triangle: & Accuracy :small_red_triangle:
 ### Enhanced Emotion Recognition
 <Real-time CNN for Emotion Classification>
-git link : https://github.com/petercunha/Emotion
+:page_facing_up: Github : https://github.com/petercunha/Emotion
+
   
 ![image](https://github.com/gachon-graduation-project/AI_pet/assets/105128163/f2b3afc9-28d0-48da-a92c-d7a850d9089f)
 
@@ -30,9 +31,11 @@ For personalization, we use reinforcement learning to calculate the weight that 
  Reinforcement learning is customized to the user. Through transfer learning, the weight of the pre-trained model is gradually changed in the real world to personalize it, which greatly reduces the actual learning time, so you can expect fast responses and fast reward algorithm updates.
 
 #### Reward Recognition for reinforcement Learning
-GitHub -[ nicknochnack/RealTimeObjectDetection](https://github.com/nicknochnack/RealTimeObjectDetection)
+:page_facing_up: GitHub -[ nicknochnack/RealTimeObjectDetection](https://github.com/nicknochnack/RealTimeObjectDetection)
 
 Hand gestures will be recognized independently of facial expression recognition to process the reward algorithm for reinforcement learning.
+
+:white_check_mark: The rewarding algorithm is a queue structure, where the main server receives it from Unity and processes it, and if it times out, it drops some weight.
 
 ## Overall Structure 
 ![image](https://github.com/gachon-graduation-project/AI_pet/assets/105128163/06cddc38-53c4-4e04-8fcc-240ebf91fba0)
@@ -50,10 +53,10 @@ Rather than starting a model with a cold start, we're going to use a model that 
 So we pre-train and build an initial model. Then we build the underlying model and deploy it.
 
 ## Member :runner:
-|학번|이름|
-|------|---|
-|202033312|Kim Yeji|
-|202135744|Kim Uijin|
-|202135771|Park Jonghyun|
-|202135826|Jang Heejin|
-|202139848|Kang Minjae|
+|학번|이름| Email|
+|------|---|----|
+|202033312|Kim Yeji|whitekuj02@naver.com|
+|202135744|Kim Uijin|yejikim001120@gmail.com|
+|202135771|Park Jonghyun|hynmail@naver.com|
+|202135826|Jang Heejin|heejin00628@gmail.com|
+|202139848|Kang Minjae|min4061801@naver.com|
