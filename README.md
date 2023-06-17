@@ -51,6 +51,8 @@ The reinforcement learning model uses the rewards to update the weights and the 
 
 Rather than starting a model with a cold start, we're going to use a model that we've pre-trained.
 So we pre-train and build an initial model. Then we build the underlying model and deploy it.
+## Schedule
+![image](https://github.com/gachon-graduation-project/AI_pet/assets/105128163/7c55775e-396b-4ee4-a610-6474fb6da070)
 
 ## Member :runner:
 |학번|이름| Email|
